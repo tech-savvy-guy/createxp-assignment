@@ -8,9 +8,9 @@ The project demonstrates the use of modern web development tools and practices, 
 
 ## Project Overview
 
-_Watch the Loom video explanation below:_
+_Watch the YouTube video explanation below: **[https://youtu.be/4RH45_0O--E](https://youtu.be/4RH45_0O--E)**_
 
-[![Loom Video Explanation](https://www.loom.com/share/placeholder-thumbnail)](https://www.loom.com/share/placeholder-link)
+[![YouTube Video Explanation](/public/thumbnail.png)](https://youtu.be/4RH45_0O--E)
 
 ---
 
