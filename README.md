@@ -1,36 +1,48 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# _Full Stack Web Developer Assignment_
 
-## Getting Started
+This is a full-stack web development assignment for **CREATEXP LABS LLP**.
 
-First, run the development server:
+The project demonstrates the use of modern web development tools and practices, including **NextJS**, **TypeScript**, and **ShadCN UI**.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Project Overview
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+_Watch the Loom video explanation below:_
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+[![Loom Video Explanation](https://www.loom.com/share/placeholder-thumbnail)](https://www.loom.com/share/placeholder-link)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+_Follow these steps to set up the project locally:_
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/tech-savvy-guy/createxp-assignment
+   cd createxp-assignment
+   ```
 
-## Deploy on Vercel
+2. Install dependencies:
+   ```bash
+   pnpm install
+   ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+3. Start the development server:
+   ```bash
+   pnpm dev
+   ```
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+4. Open the app in your browser at `http://localhost:3000`.
+
+---
+
+## Contact
+
+_If you have any questions or feedback, feel free to reach out:_
+
+- **Name**: Soham Datta
+- **Email**: [dattasoham805@gmail.com](mailto:dattasoham805@gmail.com)
+- **Mobile**: +91 9330089488
+- **Website**: [www.sohamdatta.com](http://www.sohamdatta.com)
